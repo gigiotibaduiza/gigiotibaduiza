@@ -34,7 +34,7 @@
 }
 
 .MainMenu-link{
-	color:#00DBFF;
+	color: #d35400;
 	text-decoration: none;
 	line-height: 3.75em;
 	margin-right: 1em;
@@ -99,14 +99,32 @@
 	text-align: center;
 }
 
-.Profile-link{
-	background: orange;
+.Profile-link-twitter{
+	background: #5bc0de;
 	color: white;
 	text-decoration: none;
 	padding: .5em 1em;
 	border-radius: 2em;
 	margin-right: .5em;
 }
+.Profile-link-facebook{
+	background: #3b5998;
+	color: white;
+	text-decoration: none;
+	padding: .5em 1em;
+	border-radius: 2em;
+	margin-right: .5em;
+}
+.Profile-linkd{
+	background: #0073b0;
+	color: white;
+	text-decoration: none;
+	padding: .5em 1em;
+	border-radius: 2em;
+	margin-right: .5em;
+}
+
+
 /*Work*/
 
 .Work{
